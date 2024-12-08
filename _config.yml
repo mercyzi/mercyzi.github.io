@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xuehan Zhao"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xuehan Zhao"
 description              : &description "M.E., Northwestern Polytechnical University, China"
