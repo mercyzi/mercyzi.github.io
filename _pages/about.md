@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-2023.9~now: M.E, School of Computer Science, Northwestern Polytechnical University, China
-2019.9~2023.7: B.E, Honors College, Northwestern Polytechnical University, China
+2023.9-now: M.E, School of Computer Science, Northwestern Polytechnical University, China
+
+2019.9-2023.7: B.E, Honors College, Northwestern Polytechnical University, China
 
 A data-driven personal website
 ======
