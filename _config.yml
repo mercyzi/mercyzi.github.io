@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/WechatIMG609.png"
+  avatar           : "profile.png"
   name             : "Xuehan Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Northwestern Polytechnical University"
