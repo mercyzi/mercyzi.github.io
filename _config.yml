@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Xuehan Zhao"
   pronouns         : # example: "she/her"  
-  # bio              : "Northwestern Polytechnical University"
+  bio              : "Northwestern Polytechnical University"
   location         : "China"
-  employer         : "Northwestern Polytechnical University"
+  # employer         : "Northwestern Polytechnical University"
   uri              : # URL
   email            : "xuehan.zhao@mail.nwpu.edu.cn" 
 
