@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xuehan Zhao"
-  avatar           : "images/Junjie.jpg"
+  avatar           : "images/myphoto.jpg"
   bio              : "Human-ai collaboration"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5ISQSc0AAAAJ&hl"
-  email            : "xuehan.zhao@mail.nwpu.edu.cn"
+  email            : #"xuehan.zhao@mail.nwpu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
