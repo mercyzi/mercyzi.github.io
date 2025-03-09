@@ -17,34 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University (PolyU)🇭🇰. My chief supervisor is <a href="https://sites.google.com/view/kongaiklee"> Dr. Kong Aik LEE </a> and co-supervisor is <a href="http://www.eie.polyu.edu.hk/~mwmak/">Prof. Man-Wai Mak</a>. I recived my Master's Degree in College of Intellgence and Computing, Tianjin University, supervised by <a href="https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html">Prof. Longbiao WANG</a>, and recived my Bachelor's Degree in School of Computer Science and Technology, Tiangong University. In my third year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://scholar.google.com.hk/citations?user=g9oFBgMAAAAJ&hl=zh-CN&oi=sra'>Dr. Ding Liu</a>, who is an excellent teacher, guiding me to the academic path. 
+I will pursue a Ph.D. in the School of Computer Science at Northwestern Polytechnical University in 2026, under the supervision of <a href="https://scholar.google.com/citations?user=H0qmM6gAAAAJ"> Prof. Yu Zhiwen </a>. I am currently a master's student in the School of Computer Science at Northwestern Polytechnical University, with <a href="https://scholar.google.com/citations?user=1UgkslMAAAAJ"> Dr. Liu Jiaqi </a> as my supervisor. I obtained a bachelor's degree from the Honor College at Northwestern Polytechnical University.
 
-My research interest includes Speech Separation, Text to Speech and Speaker-related tasks, such as Speaker Verification, Anti-spoofing and Voice Anonymization. <a href='https://scholar.google.com/citations?user=CInvjq8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmrjunjieli%2Fmrjunjieli.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+My research mainly focuses on Human-AI Collaboration.
 
 
 
 # 🔥 News
-- 2025.02: &nbsp;🎉🎉 Xi-vector has been open sourced in Wespeaker toolkit [[404]](https://github.com/wenet-e2e/wespeaker/pull/404). 
-- 2025.01: &nbsp;🎉🎉 "Audio-Visual Target Speaker Extraction with Selective Auditory Attention" has been accepted by TASLP [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10835186)
+- 2025.03: &nbsp;🎉🎉 Xi-vector 
 
 
 # 📖 Educations
-- 2024.05 - present, Ph.D. candidate in Department of Electrical and Eletronic Engineering,  The Hong Kong Polytechnic University, Hong Kong SAR. 
-- 2020.09 - 2023.03, M.E. in College of Intellgence and Computing, Tianjin University, Tianjin. 
-- 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Tiangong University (Tianjin Polytechnic University), Tianjin. 
-
-# 💻 Internship Experience
-- 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
-- 2022.06 - 2022.12, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
-- 2021.11 - 2022.01, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan. 
+- 2023.09 - present, M.E. Computer Science and Technology, School of Computer Science, Northwestern Polytechnical University, China
+- 2019-09 - 2023.06, B.E. Computer Science and Technology, Honor College, Northwestern Polytechnical University, China
 
 
 # 📝 Publications
 
-## Speaker verification 
-
-
-## Speech Separation 
+## Human-AI Collaboration 
 - **<u>Li Junjie</u>**, Zhang Ke, Wang Shuai, et al. "MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues". [[demo]](../demo_page/MoMuSE/index.html) 
 
 - Zhang Ke, **<u>Li Junjie</u>**, et al. "Multi-Level Speaker Representation for Target Speaker Extraction".
@@ -75,36 +65,6 @@ INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183. [![](https://im
 cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)  [![](https://img.shields.io/github/stars/mrjunjieli/IB_ON_CNN?style=social&label=Code+Stars)](https://github.com/mrjunjieli/IB_ON_CNN)
 
 
-# 💻 Open Source Toolkit
-- WeSep [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
-- WeSpeaker [![](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wespeaker)
-
-# 🎖 Honors and Awards
-- 2016-2017 President’s Scholarship Second Class (top 7%) 
-- 2016-2017 Merit Student (top 5%)
-- 2017-2018 President’s Scholarship Third Class (top 15%)
-- 2018-2019 President’s Scholarship Third Class (top 15%)
-- 2018-2019 Merit Student (top 5%) 
-- 2020 Outstanding Graduate Award (top 5%) 
-- 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award
-
-# 😄 Academic Activities
-- 2024.12 SLT 2024, Macao, China [[Image]](../images/SLT2024/index.html)
-- 2024.11. 深圳大湾区学术论坛 [[Image]](../images/haizhou_birthday/index.html)
-- 2024.08 [PolyU Research Student Conference](https://events.polyu.edu.hk/prsc2024/home) [[Image]](../images/PRSC/index.html)
-- 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
-- 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
-- 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
-- 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
-- 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
-
-# 💬 Blog
-- Summary of Speaker-realted tasks[![](https://img.shields.io/github/stars/mrjunjieli/awesome_speaker?style=social&label=Code+Stars)](https://github.com/mrjunjieli/awesome_speaker)
-- [Personal Blog](https://awesome-speaker.github.io/)
-
-# Reviewer 
-- IEEE The International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2025 
-- IEEE International Conference on Multimedia & Expo 2025
 
 <!-- 
 # 🔥 News
