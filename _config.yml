@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junjie LI"
-description              : "A Ph.D candidate at The Hong Kong Polytechnic University"
-repository               : "mrjunjieli/mrjunjieli.github.io"
+title                    : "Xuehan Zhao"
+description              : "A Ph.D candidate at Northwestern Polytechnical University"
+repository               : "mercyzi/mercyzi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junjie LI"
+  name             : "Xuehan Zhao"
   avatar           : "images/Junjie.jpg"
-  bio              : "Fake it until you make it"
-  location         : "Hong Kong SAR, China"
+  bio              : "Human-ai collaboration"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
-  email            : "mrjunjieli@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=5ISQSc0AAAAJ&hl"
+  email            : "xuehan.zhao@mail.nwpu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : mrjunjieli # e.g., "github username"
+  github           : mercyzi # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        : 大耳朵图图
+  instagram        : #大耳朵图图
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : junjie-li-4b0a17303 # e.g., "linkedin username"
+  linkedin         : # junjie-li-4b0a17303 # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
