@@ -24,7 +24,7 @@ My research mainly focuses on Human-AI Collaboration.
 
 
 # 🔥 News
-- 2025.03: &nbsp;🎉🎉 [2025.03] Our papaer "Improving Human-AI Collaboration in Medical Diagnosis with Combination Advice" was accepted by IEEE International Conference on Multimedia & Expo (ICME 2025).
+- 2025.03: &nbsp;🎉🎉 Our papaer "Improving Human-AI Collaboration in Medical Diagnosis with Combination Advice" was accepted by IEEE International Conference on Multimedia & Expo (ICME) 2025.
 
 
 # 📖 Educations
