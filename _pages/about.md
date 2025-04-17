@@ -35,11 +35,11 @@ My research mainly focuses on Human-AI Collaboration.
 # 📝 Publications
 
 ## Human-AI Collaboration 
-2. **<u>Xuehan Zhao</u>**, Jiaqi Liu*, Zhiwen Yu, Bin Guo. Improving Human-AI Collaboration in Medical Diagnosis with Combination Advice, IEEE International Conference on Multimedia & Expo (ICME), 2025.
+2. **<u>Xuehan Zhao</u>**, Jiaqi Liu*, Zhiwen Yu, Bin Guo. Improving Human-AI Collaboration in Medical Diagnosis with Combination Advice, IEEE International Conference on Multimedia & Expo (ICME), 2025. (CORE-A, CCF-B)
 
-1. **<u>Xuehan Zhao</u>**, Jiaqi Liu*, Yao Zhang, Zhiwen Yu, Bin Guo. HAIformer: Human-AI Collaboration Framework for Disease Diagnosis via Doctor-Enhanced Transformer, European Conference on Artificial Intelligence (ECAI), 2024. [Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240653)
+1. **<u>Xuehan Zhao</u>**, Jiaqi Liu*, Yao Zhang, Zhiwen Yu, Bin Guo. HAIformer: Human-AI Collaboration Framework for Disease Diagnosis via Doctor-Enhanced Transformer, European Conference on Artificial Intelligence (ECAI), 2024. (CORE-A, CCF-B) [Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240653)
 
-2. **<u>Xuehan Zhao</u>**, Jiaqi Liu*, Zhiwen Yu, Bin Guo. HADT: Human-AI Diagnostic Team via Hierarchical Reinforcement Learning, Proceedings of the 2024 SIAM International Conference on Data Mining (SDM), 2024. [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.98)
+2. **<u>Xuehan Zhao</u>**, Jiaqi Liu*, Zhiwen Yu, Bin Guo. HADT: Human-AI Diagnostic Team via Hierarchical Reinforcement Learning, Proceedings of the 2024 SIAM International Conference on Data Mining (SDM), 2024. (CORE-A, CCF-B) [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.98)
 
 
 
