@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will pursue a Ph.D. in the School of Computer Science at Northwestern Polytechnical University in 2026, under the supervision of <a href="https://scholar.google.com/citations?user=H0qmM6gAAAAJ"> Prof. Yu Zhiwen </a>. I am currently a master's student in the School of Computer Science at Northwestern Polytechnical University, with <a href="https://scholar.google.com/citations?user=1UgkslMAAAAJ"> Dr. Liu Jiaqi </a> as my supervisor. I obtained a bachelor's degree from the Honor College at Northwestern Polytechnical University.
+I will pursue a Ph.D. in the School of Computer Science at Northwestern Polytechnical University (NWPU) in 2026, under the supervision of <a href="https://scholar.google.com/citations?user=H0qmM6gAAAAJ"> Prof. Yu Zhiwen </a>. I am currently a master's student in the School of Computer Science at NWPU, with <a href="https://scholar.google.com/citations?user=1UgkslMAAAAJ"> Dr. Liu Jiaqi </a> as my supervisor. I obtained a bachelor's degree from the Honor College at NWPU.
 
 My research mainly focuses on Human-AI Collaboration.
 
