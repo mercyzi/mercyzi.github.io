@@ -36,7 +36,7 @@ My research mainly focuses on Human-AI Collaboration.
 # 📝 Publications
 
 ## Human-AI Collaboration 
-1. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Xin Zhang, Zhiwen Yu, Bin Guo. ActiveHAI: Active Collection based Human-AI Diagnosis with Limited Expert Predictionse, The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025. (CORE-A\*, CCF-A)
+1. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Xin Zhang, Zhiwen Yu, Bin Guo. ActiveHAI: Active Collection based Human-AI Diagnosis with Limited Expert Predictions, The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025. (CORE-A\*, CCF-A)
    
 2. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Zhiwen Yu, Bin Guo. Improving Human-AI Collaboration in Medical Diagnosis with Combination Advice, IEEE International Conference on Multimedia & Expo (ICME), 2025. (CORE-A, CCF-B)
 
