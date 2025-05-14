@@ -29,7 +29,7 @@ My research mainly focuses on Human-AI Collaboration.
 
 
 # 📖 Educations
-- 2026.03 - 2030.03, M.E. Computer Science and Technology, School of Computer Science, Northwestern Polytechnical University, China
+- 2026.03 - 2030.03, Ph.D. Computer Science and Technology, School of Computer Science, Northwestern Polytechnical University, China
 - 2023.09 - present, M.E. Computer Science and Technology, School of Computer Science, Northwestern Polytechnical University, China
 - 2019-09 - 2023.06, B.E. Computer Science and Technology, Honor College, Northwestern Polytechnical University, China
 
