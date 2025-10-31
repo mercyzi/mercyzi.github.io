@@ -24,8 +24,8 @@ My research mainly focuses on Human-AI Collaboration.
 
 
 # 🔥 News
+- 2025.10: &nbsp;🎉🎉 Our paper "Hierarchical Reinforcement Learning based Human-AI Online Diagnosis" was accepted by the IEEE Transactions on Mobile Computing (IEEE TMC).
 - 2025.04: &nbsp;🎉🎉 Our paper "ActiveHAI: Active Collection based Human-AI Diagnosis with Limited Expert Predictions" was accepted by The 34th International Joint Conference on Artificial Intelligence (IJCAI) 2025.
-- 2025.03: &nbsp;🎉🎉 Our paper "Improving Human-AI Collaboration in Medical Diagnosis with Combination Advice" was accepted by IEEE International Conference on Multimedia & Expo (ICME) 2025.
 
 
 # 📖 Educations
@@ -37,13 +37,15 @@ My research mainly focuses on Human-AI Collaboration.
 # 📝 Publications
 
 ## Human-AI Collaboration 
-1. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Xin Zhang, Zhiwen Yu, Bin Guo. ActiveHAI: Active Collection based Human-AI Diagnosis with Limited Expert Predictions, The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025. (CORE-A\*, CCF-A) [Paper](https://www.ijcai.org/proceedings/2025/477)
+1. Jiaqi Liu\*, **<u>Xuehan Zhao</u>**, Xin Zhang, Zhiwen Yu, Bin Guo. Hierarchical Reinforcement Learning based Human-AI Online Diagnosis, IEEE Transactions on Mobile Computing (IEEE TMC), 2025. (CCF-A) 
    
-2. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Zhiwen Yu, Bin Guo. Improving Human-AI Collaboration in Medical Diagnosis with Combination Advice, IEEE International Conference on Multimedia & Expo (ICME), 2025. (CORE-A, CCF-B)
+2. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Xin Zhang, Zhiwen Yu, Bin Guo. ActiveHAI: Active Collection based Human-AI Diagnosis with Limited Expert Predictions, The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025. (CORE-A\*, CCF-A) [Paper](https://www.ijcai.org/proceedings/2025/477)
+   
+3. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Zhiwen Yu, Bin Guo. Improving Human-AI Collaboration in Medical Diagnosis with Combination Advice, IEEE International Conference on Multimedia & Expo (ICME), 2025. (CORE-A, CCF-B)
 
-3. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Yao Zhang, Zhiwen Yu, Bin Guo. HAIformer: Human-AI Collaboration Framework for Disease Diagnosis via Doctor-Enhanced Transformer, European Conference on Artificial Intelligence (ECAI), 2024. (CORE-A, CCF-B) [Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240653)
+4. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Yao Zhang, Zhiwen Yu, Bin Guo. HAIformer: Human-AI Collaboration Framework for Disease Diagnosis via Doctor-Enhanced Transformer, European Conference on Artificial Intelligence (ECAI), 2024. (CORE-A, CCF-B) [Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240653)
 
-4. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Zhiwen Yu, Bin Guo. HADT: Human-AI Diagnostic Team via Hierarchical Reinforcement Learning, Proceedings of the 2024 SIAM International Conference on Data Mining (SDM), 2024. (CORE-A, CCF-B) [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.98)
+5. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Zhiwen Yu, Bin Guo. HADT: Human-AI Diagnostic Team via Hierarchical Reinforcement Learning, Proceedings of the 2024 SIAM International Conference on Data Mining (SDM), 2024. (CORE-A, CCF-B) [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.98)
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=y-r0vhftW82VzrSQ0RoSiZL_Gwfny7Y1S18b7JPfzPw&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
