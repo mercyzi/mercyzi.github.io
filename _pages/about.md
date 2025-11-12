@@ -37,7 +37,7 @@ My research mainly focuses on Human-AI Collaboration.
 # 📝 Publications
 
 ## Human-AI Collaboration 
-1. Jiaqi Liu\*, **<u>Xuehan Zhao</u>**, Xin Zhang, Zhiwen Yu, Bin Guo. Hierarchical Reinforcement Learning based Human-AI Online Diagnosis, IEEE Transactions on Mobile Computing (IEEE TMC), 2025. (CCF-A) 
+1. Jiaqi Liu\*, **<u>Xuehan Zhao</u>**, Xin Zhang, Zhiwen Yu, Bin Guo. Hierarchical Reinforcement Learning based Human-AI Online Diagnosis, IEEE Transactions on Mobile Computing (IEEE TMC), 2025. (CCF-A) [Paper](https://ieeexplore.ieee.org/document/11230621)
    
 2. **<u>Xuehan Zhao</u>**, Jiaqi Liu\*, Xin Zhang, Zhiwen Yu, Bin Guo. ActiveHAI: Active Collection based Human-AI Diagnosis with Limited Expert Predictions, The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025. (CORE-A\*, CCF-A) [Paper](https://www.ijcai.org/proceedings/2025/477)
    
