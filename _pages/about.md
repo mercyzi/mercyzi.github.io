@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will pursue a Ph.D. in the School of Computer Science at Northwestern Polytechnical University (NWPU) in 2026, under the supervision of <a href="https://scholar.google.com/citations?user=H0qmM6gAAAAJ"> Prof. Yu Zhiwen </a>. I am currently a master's student in the School of Computer Science at NWPU, with <a href="https://scholar.google.com/citations?user=1UgkslMAAAAJ"> Dr. Liu Jiaqi </a> as my supervisor. I obtained a bachelor's degree from the Honor College at NWPU.
+I am a Ph.D. student in the School of Computer Science at Northwestern Polytechnical University (NWPU), supervised by <a href="https://scholar.google.com/citations?user=H0qmM6gAAAAJ">Prof. Yu Zhiwen</a> and Dr. Liu Jiaqi. I received my bachelor’s degree from the Honors College at NWPU.
 
 My research mainly focuses on Human-AI Collaboration.
 
@@ -27,11 +27,6 @@ My research mainly focuses on Human-AI Collaboration.
 - 2025.10: &nbsp;🎉🎉 Our paper "Hierarchical Reinforcement Learning based Human-AI Online Diagnosis" was accepted by the IEEE Transactions on Mobile Computing (IEEE TMC).
 - 2025.04: &nbsp;🎉🎉 Our paper "ActiveHAI: Active Collection based Human-AI Diagnosis with Limited Expert Predictions" was accepted by The 34th International Joint Conference on Artificial Intelligence (IJCAI) 2025.
 
-
-# 📖 Educations
-- 2026.03 - 2030.03, Ph.D. Computer Science and Technology, School of Computer Science, Northwestern Polytechnical University, China
-- 2023.09 - present, M.E. Computer Science and Technology, School of Computer Science, Northwestern Polytechnical University, China
-- 2019-09 - 2023.06, B.E. Computer Science and Technology, Honor College, Northwestern Polytechnical University, China
 
 
 # 📝 Publications
