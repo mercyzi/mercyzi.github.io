@@ -23,8 +23,6 @@ My research mainly focuses on Human-AI Collaboration.
 
 
 
-# 🔥 News
-There is nothing new under the sun.
 
 
 
